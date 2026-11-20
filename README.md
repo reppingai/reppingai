@@ -36,7 +36,8 @@ Works with Claude, ChatGPT, Codex, Cursor, VS Code, Gemini CLI and Windsurf. Sec
 
 - **Schedule** to Instagram, TikTok, YouTube, X, LinkedIn, Facebook, Threads, Pinterest, Bluesky, Reddit and more
 - **Analyze** top posts, engagement and best times to post across every channel
-- **Link in Bio** pages with products, courses and bookings
+- **Link in Bio** page that sends visitors to your store, booking page or payment link
+- **AutoDM** for Instagram comment and DM keywords
 - **Media library** with Google Drive and Dropbox import
 
 ### Follow us
