@@ -4,7 +4,7 @@
 
 <h1 align="center">Repping.ai</h1>
 
-<p align="center"><b>The all-in-one creator platform: schedule social posts, track analytics and build your Link in Bio — now from your AI agent.</b></p>
+<p align="center"><b>One Stop Solution for Creators: Link in Bio, social media scheduling, Auto DMs, analytics and AI tools — now from your AI agent.</b></p>
 
 <p align="center">
   <a href="https://www.repping.ai">Website</a> ·
